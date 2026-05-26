@@ -202,7 +202,7 @@ An Excel dashboard was created using PivotTables, KPI cards, and charts. The das
 
 ## Dashboard Preview
 
-![FinTech Transaction & Risk Dashboard](dashboard/fintech_dashboard_screenshot.png)
+![FinTech Transaction & Risk Dashboard](dashboard/dashboardfintech_dashboard_screenshot.png)
 
 ---
 
